@@ -1,2 +1,2 @@
-# Universal-robot-kinematics
-UR5 and UR10 forward and inverse kinematics, python scripts
+# Universal-robot-UR5e-Power-Comparison
+UR5e Power comaprison from force plates data and UR driver data
